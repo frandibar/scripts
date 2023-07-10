@@ -1,0 +1,12 @@
+* My bookmark #1 
+https://my-bookmark-01/
+2023/07/09
+* My bookmark #2 :tagA:
+https://my-bookmark-02/
+2023/11/02
+* My bookmark #1 :tagB:
+https://my-bookmark-03/
+2023/07/10
+* My bookmark #4 :tagB:tagC:
+https://my-bookmark-04/
+2023/11/14
